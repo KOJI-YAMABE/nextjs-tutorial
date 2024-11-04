@@ -1,0 +1,9 @@
+{
+    "WillLuke.nextjs.addTypesOnSave": true,
+    "WillLuke.nextjs.hasPrompted": true,
+    // PrismaのスキーマファイルはフォーマッターとしてPrism.prismaを指定
+    "[prisma]": {
+        "editor.defaultFormatter": "Prisma.prisma"
+    },
+    "typescript.tsdk": "node_modules/typescript/lib",
+}
